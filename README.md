@@ -1,0 +1,2 @@
+# Hibernate_One_To_One_Mapping
+One_To_One_Mapping
